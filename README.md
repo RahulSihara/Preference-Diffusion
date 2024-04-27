@@ -12,4 +12,4 @@ To solve this, we employ Direct Preference Optimization (DPO), to align the prom
 ![image](https://github.com/RahulSihara/Preference-Diffusion/assets/131336354/d9e3a3cc-a580-4113-8cb4-8d2f04a27113)
 
 # Web Interface Video
-[https://drive.google.com/file/d/1qt0nLLlfGLfcmPBHBcgGhF4dSBFDt3kK/view?usp=sharing](url)
+https://drive.google.com/file/d/1qt0nLLlfGLfcmPBHBcgGhF4dSBFDt3kK/view?usp=sharing
